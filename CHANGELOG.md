@@ -3,6 +3,9 @@
 The [git commit history](https://github.com/takari/maven-wrapper/commits/master)
 is the detailed source of all changes. The following provides most information
 at an easier glance.
+## Version 0.5.7c - 2021-04-29
+
+- Update to Maven 3.8.1
 
 ## Version 0.5.6 - 2019-12-04
 
